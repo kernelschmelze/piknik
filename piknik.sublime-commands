@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Piknik: copy",
+        "command": "copy_to_piknik"
+    },
+    {
+        "caption": "Piknik: paste",
+        "command": "paste_from_piknik"
+    },
+    {
+        "caption": "Piknik: paste to clipboard",
+        "command": "paste_from_piknik_to_clipboard"
+    }
+]
