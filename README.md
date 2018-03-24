@@ -1,7 +1,7 @@
 # Piknik
 
-Sublime plug-in for [Piknik](https://github.com/jedisct1/piknik)  
-Copy and paste from/to Piknik server.  
+Copy and paste from/to [Piknik](https://github.com/jedisct1/piknik) server.  
+
   
 Copy `piknik.py` and `piknik.sublime-commands` to ../Sublime Text 3/Data/Packages where Sublime Text 3 is installed. 
   
