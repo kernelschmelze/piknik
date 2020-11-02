@@ -7,7 +7,7 @@ Copy `piknik.py` and `piknik.sublime-commands` to ../Sublime Text 3/Data/Package
   
 Use the Command Palette (piknik:) to copy and paste.  
 
-[Blog](https://kernelschmelze.de/blog/posts/2018/piknik/)  
+[Blog](https://kernelschmelze.de/blog/2018/03/piknik/)  
 
 ### License
 
